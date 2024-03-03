@@ -35,23 +35,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-RandomNumberGuess", "15-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-ErrorManagement", "16-ErrorManagement\16-ErrorManagement.csproj", "{DE801356-005F-4174-A3BD-DB56532C6C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Imouttayrloopy", "17-Imouttayrloopy\17-Imouttayrloopy.csproj", "{09B8A2B4-40A9-4EE8-9763-0089A6DB0A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17-Imouttayrloopy", "17-Imouttayrloopy\17-Imouttayrloopy.csproj", "{09B8A2B4-40A9-4EE8-9763-0089A6DB0A52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-take10numbersandcompare", "18-take10numbersandcompare\18-take10numbersandcompare.csproj", "{38D1E353-67D7-4540-AEF3-FC8B7E31828A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-take10numbersandcompare", "18-take10numbersandcompare\18-take10numbersandcompare.csproj", "{38D1E353-67D7-4540-AEF3-FC8B7E31828A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-while", "19-while\19-while.csproj", "{679FCCD7-30F7-4EC1-9965-3E8B704DF486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-while", "19-while\19-while.csproj", "{679FCCD7-30F7-4EC1-9965-3E8B704DF486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-whileTextRepetition", "20-whileTextRepetition\20-whileTextRepetition.csproj", "{0034BA3A-ACE8-4EF6-9CB4-C929817C626E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-whileTextRepetition", "20-whileTextRepetition\20-whileTextRepetition.csproj", "{0034BA3A-ACE8-4EF6-9CB4-C929817C626E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-DowhileFactorial", "21-DowhileFactorial\21-DowhileFactorial.csproj", "{B0C71C17-08B7-4514-9660-C1B76DFD837D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21-DowhileFactorial", "21-DowhileFactorial\21-DowhileFactorial.csproj", "{B0C71C17-08B7-4514-9660-C1B76DFD837D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-Loopyloop", "22-Loopyloop\22-Loopyloop.csproj", "{BF9DA4CB-28D5-4D58-8445-92003C8E4279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22-Loopyloop", "22-Loopyloop\22-Loopyloop.csproj", "{BF9DA4CB-28D5-4D58-8445-92003C8E4279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-Getsizee", "23-Getsizee\23-Getsizee.csproj", "{4356FCAF-BAF3-41F7-AFE1-1DBCA3C9F345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23-Getsizee", "23-Getsizee\23-Getsizee.csproj", "{4356FCAF-BAF3-41F7-AFE1-1DBCA3C9F345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-continiue", "24-continiue\24-continiue.csproj", "{748DAE86-BDBC-475F-BD24-E13FEF3E8325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24-continiue", "24-continiue\24-continiue.csproj", "{748DAE86-BDBC-475F-BD24-E13FEF3E8325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-ProductTable", "25-ProductTable\25-ProductTable.csproj", "{7A2F14DD-F5C9-4790-B821-39A7FB368013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25-ProductTable", "25-ProductTable\25-ProductTable.csproj", "{7A2F14DD-F5C9-4790-B821-39A7FB368013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-69", "26-69\26-69.csproj", "{8AFF0297-CAC5-459B-B476-6577D343C6C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{7A2F14DD-F5C9-4790-B821-39A7FB368013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A2F14DD-F5C9-4790-B821-39A7FB368013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A2F14DD-F5C9-4790-B821-39A7FB368013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFF0297-CAC5-459B-B476-6577D343C6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFF0297-CAC5-459B-B476-6577D343C6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFF0297-CAC5-459B-B476-6577D343C6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFF0297-CAC5-459B-B476-6577D343C6C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
